@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comprehensive, tho' compendious character of the late royal martyr King Charles I. of ever-blessed memory. Delineated by one of the most eminent divines of the Church of England.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20590</idno><idno type="EEBO-CITATION">99888077</idno>
+  <idno type="VID">201538</idno>
+  <idno type="EEBO-PROQUEST">2269047058</idno>
+  
+            <idno type="STC">Wing C5662</idno>
+            <idno type="STC">Interim Tract Supplement Guide 105.f.17[30]</idno>
+            <idno type="STC">ESTC R228992</idno>
+            <idno type="PROQUEST">ocm99888077</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888077e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201538)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:2[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Comprehensive, tho' compendious character of the late royal martyr King Charles I. of ever-blessed memory. Delineated by one of the most eminent divines of the Church of England.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With 18 lines of verse at foot, with title: His epitaph by the celebrated Mr. Butler.</note>
+                  <note>British Library states that the verse is wrongly attributed to Samuel Butler.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="biography">
+            <pb facs="tcp:201538:1"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:201538:2"/>
+            <head>Comprehensive, tho' Compendious CHARACTER of the Late <hi>Royal Martyr</hi> King CHARLES I. of ever-blessed Memory.</head>
+            <byline>DELINEATED by One of the most EMINENT DIVINES OF THE CHURCH of ENGLAND.</byline>
+            <div type="character">
+               <figure>
+                  <figDesc>depiction of Charles I with others</figDesc>
+                  <q>
+                     <l>— Luis talia fando</l>
+                     <l>Temperet a lacrymis? —</l>
+                     <bibl>VIRG.</bibl>
+                  </q>
+               </figure>
+               <p>HE was a <hi>David,</hi> a <hi>Saint,</hi> a <hi>King,</hi> but never a <hi>Shep<g ref="char:EOLhyphen"/>herd.</hi> Some of all the Royal Blood in Christendom ran in his Veins; that is to say, many Kings went into the Composition of this One <hi>Potentate:</hi> His <hi>Education</hi> and <hi>Improvements</hi> were commensurate to his <hi>Extraction:</hi> He was accurate in all the recommending Excellencies of <hi>human Accomplishments;</hi> able to <hi>deserve,</hi> had he not <hi>inherited</hi> a <hi>Kingdom:</hi> Of so controuling a <hi>Genius,</hi> that in every <hi>Science</hi> he attempted, he did not so much <hi>study</hi> as <hi>reign,</hi> and appear'd not only a <hi>Proficient,</hi> but a <hi>Prince.</hi>
+               </p>
+               <p>HIS <hi>own Performances</hi> make good this Assertion, and speak him as much an <hi>Orator,</hi> as a <hi>Monarch.</hi> These are compos'd with such an uninterrupted, and unfailing <hi>Accuracy;</hi> such a commanding, <hi>majestic Pathos;</hi> as if they had been written, not with a <hi>Pen,</hi> but with a <hi>Scepter.</hi> As it is hard to counterfeit the Spirit of <hi>Majesty,</hi> and the inimitable Peculiarities of an incom<g ref="char:EOLhyphen"/>municable <hi>Genius</hi> and Condition; so are some of <hi>his Works</hi> ri<g ref="char:EOLhyphen"/>diculously imputed to <hi>others;</hi> they <hi>did not</hi> write them, because they <hi>could not.</hi>
+               </p>
+               <p>AT the <hi>Council-Board,</hi> he had the <hi>Ability</hi> still to <hi>give</hi> himself the <hi>best Counsel,</hi> but the unhappy <hi>Modesty</hi> to <hi>diffide</hi> in it: In<g ref="char:EOLhyphen"/>deed, his <hi>only Fault;</hi> for <hi>Modesty</hi> is a <hi>Paradox</hi> in <hi>Majesty,</hi> and <hi>Humility</hi> a <hi>Solecism</hi> in <hi>Supremacy.</hi>
+               </p>
+               <p>LOOK we next upon his <hi>Piety</hi> and <hi>unparallell'd Virtues;</hi> tho', without an Absurdity, it may be affirm'd, that his very Endowments of Nature were supernatural: So <hi>pious</hi> was he, that had Others measur'd their <hi>Obedience</hi> to <hi>Him,</hi> by his <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> to <hi>God,</hi> he had been the most <hi>absolute Monarch</hi> in the World: As eminent for frequenting the <hi>Temple,</hi> as <hi>Solomon</hi> for <hi>building</hi> One: So firm to the <hi>Protestant Cause,</hi> that tho' he convers'd in the Midst of Temptation, in the very Bosom of <hi>Spain;</hi> and tho' <hi>France</hi> lay in <hi>His;</hi> yet could nothing shake him, but that he espous'd the <hi>Cause</hi> of <hi>Religion,</hi> even more than his beloved <hi>Queen.</hi>
+               </p>
+               <p>HE fitted every Way the Title under which he was pray'd for. He could <hi>defend</hi> his <hi>Religion</hi> as a <hi>King; dispute</hi> for it as a <hi>Divine;</hi> and <hi>dye</hi> for it as a <hi>Martyr.</hi>
+               </p>
+               <p>THIS <hi>eminent Piety</hi> of his was adorn'd with the whole Train of <hi>moral Virtues.</hi> His <hi>Temperance</hi> was so great and impreg<g ref="char:EOLhyphen"/>nable, amidst all these Allurements, with which the Courts of Kings are apt to melt, even the most <hi>stoical</hi> and <hi>resolv'd Minds,</hi> that he did, at the same Time, both <hi>teach</hi> and <hi>upbraid</hi> the Court; so that it was not so much their own <hi>Vice,</hi> as his <hi>Example,</hi> that render'd their Debauchery inexcusable. Look over the whole List of our <hi>Kings,</hi> and take in the <hi>Kings</hi> of <hi>Israel</hi> to boot, and Who ever kept the Bond of Conjugal Af<g ref="char:EOLhyphen"/>fection so inviolate? <hi>David</hi> was chiefly eminent for <hi>repenting</hi> in this Matter; <hi>Charles</hi> for <hi>needing</hi> no <hi>Repentance:</hi> None ever appear'd of greater Fortitude of Mind, which was more resplendent in the Conquest of himself, and in those miraculous Instances of passive Valour, than if he had strew'd the Field with all the <hi>Rebels</hi> Armies; and to the Justness of his own Cause, had join'd the Success of theirs; and yet withal so meek, so gentle, so merciful, and that even to a Cruelty to himself, that, if ever the <hi>Lion</hi> and the <hi>Lamb</hi> dwelt together, if ever <hi>Courage</hi> and <hi>Meekness</hi> were united, it was in the <hi>Breast</hi> of this <hi>Royal Person.</hi>
+               </p>
+            </div>
+            <div type="epitaph">
+               <head>HIS EPITAPH</head>
+               <byline>By the Celebrated Mr. <hi>BUTLER.</hi>
+               </byline>
+               <lg>
+                  <l>STAY, Passenger, stay here, and see</l>
+                  <l>Intomb'd lies injur'd Majesty.</l>
+                  <l>Why tremblest not? — Here's That would make</l>
+                  <l>
+                     <hi>All</hi> but a <hi>hard'ned Rebel</hi> quake.</l>
+                  <l>A <hi>King!</hi> — O! starts thou not with Fear?</l>
+                  <l>A <hi>murder'd King</hi> lies bury'd here!</l>
+                  <l>Search all the Records of old Times,</l>
+                  <l>And muster up all Ages Crimes,</l>
+                  <l>And roll 'em up in one great Mass,</l>
+                  <l>'Twill fall far short of what <hi>This</hi> was:</l>
+                  <l>A <hi>Monarch</hi> sentenc'd to his Death,</l>
+                  <l>By vulgar, base, <hi>Plebeian</hi> Breath:</l>
+                  <l>A <hi>Law-giver,</hi> by Laws unknown,</l>
+                  <l>Condemn'd to lose his Head and Throne;</l>
+                  <l>Nay, and to make the <hi>Odium</hi> more,</l>
+                  <l>This must be done at his <hi>own Door;</hi>
+                  </l>
+                  <l>And all under the false Pretence</l>
+                  <l>Of <hi>Liberty</hi> of <hi>Conscience.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>N. B.</hi> His Majesty King <hi>Charles</hi> I. was <hi>Born</hi> in the Year of our Lord 1600, <hi>Crown'd</hi> in 1625, and <hi>Martyr'd</hi> on the 30th. of <hi>January,</hi> 1649.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
